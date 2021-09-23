@@ -2,7 +2,7 @@
 
 - NEFFEX, Imagine Dragons, Fat Rat fan here.
 
-### Currently Seeking Opportunity To Learn More About JavaScript, Python Effectively.
+- Currently Seeking Opportunity To Learn More About **JavaScript**, **Python** Effectively.
 ### 💬 Ask me about ...
  - reach me out on my twitter account.
 
